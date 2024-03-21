@@ -10,6 +10,8 @@ github.com/aws/jsii-runtime-go v1.95.0 h1:I43Ye2AI8YNul6aWgtsvE76Vq6K6OzDEnZa/3g
 github.com/aws/jsii-runtime-go v1.95.0/go.mod h1:ltYD/GbXiTKFeEUn03Ypwhl75N1Rwj4G2094XHjc+LM=
 github.com/cdktf/cdktf-provider-aws-go/aws/v19 v19.9.0 h1:vEBmgVrwACbluI6l2NYWvkst6rqWXO/M/KrCrt8nqYQ=
 github.com/cdktf/cdktf-provider-aws-go/aws/v19 v19.9.0/go.mod h1:FUKbPrAplFbBOwDGSQB7s8Zm8lyK2t/oZcdwm92+7pU=
+github.com/cdktf/cdktf-provider-aws-go/aws/v19 v19.10.0 h1:P2ApvtvV91fZoTCjc+0fnHT1+ABSKAUHPPxP2ANDnkM=
+github.com/cdktf/cdktf-provider-aws-go/aws/v19 v19.10.0/go.mod h1:AWzE3QzMVs7sKub+jZ7IEyTmVEUwHI2cZ7STGexDXG4=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/fatih/color v1.16.0 h1:zmkK9Ngbjj+K0yRhTVONQh1p/HknKYSlNT+vZCzyokM=
 github.com/fatih/color v1.16.0/go.mod h1:fL2Sau1YI5c0pdGEVCbKQbLXB6edEj1ZgiY4NijnWvE=

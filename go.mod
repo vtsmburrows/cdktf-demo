@@ -1,6 +1,6 @@
 module cdk.tf/go/stack
 
-go 1.18
+go 1.21.1
 
 require github.com/aws/constructs-go/constructs/v10 v10.3.0
 
@@ -10,7 +10,7 @@ require github.com/aws/jsii-runtime-go v1.95.0
 
 require (
 	github.com/Masterminds/semver/v3 v3.2.1 // indirect
-	github.com/cdktf/cdktf-provider-aws-go/aws/v19 v19.9.0 // indirect
+	github.com/cdktf/cdktf-provider-aws-go/aws/v19 v19.10.0 // indirect
 	github.com/fatih/color v1.16.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
